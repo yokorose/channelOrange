@@ -1,5 +1,8 @@
 /**
-* REALLY simple processing sketch for using webcam input
+* 
+CREDITS GO TO KADENZE:
+COSMETIC MODIFICATIONS BY YOKO EBATA
+REALLY simple processing sketch for using webcam input
 * This sends 100 input values to port 6448 using message /wek/inputs
 **/
 
